@@ -9,7 +9,7 @@
 
     <groupId>com.nikedlab</groupId>
     <artifactId>logRotator</artifactId>
-    <version>1.6</version>
+    <version>1.7-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>logRotator</name>
     <url>http://maven.apache.org</url>
